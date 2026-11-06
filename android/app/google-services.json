@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974587361872",
+    "project_id": "generation-schools-app-2b4e3",
+    "storage_bucket": "generation-schools-app-2b4e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974587361872:android:9b4b751e103e5bc261ef55",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWw2aUivYq_iBT0-s8XCdAQjz4DCAEnsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
