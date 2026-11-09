@@ -1,12 +1,13 @@
 # flutter_application_school
 
-A new Flutter project.
+A mobile application for a school's internal communication purposes. this aims to allow the school to update and share information with learners and parents. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+This application was developed to demonstrate learning for a school assignment. 
 
-A few resources to get you started if this is your first Flutter project:
+
+
+A few resources to get you started if looking to start a flutter project:
 
 - [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
 - [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
