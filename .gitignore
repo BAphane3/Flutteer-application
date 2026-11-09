@@ -60,6 +60,9 @@ build/
 # Flutter generated files
 **/generated_plugin_registrant.dart
 
+# backend keys
+/firebase.json
+
 # Android
 android/local.properties
 android/.gradle/
